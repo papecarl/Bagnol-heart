@@ -1,0 +1,19 @@
+Project title: Heart
+  Purpose of this project: It represent love, emotion, and feelings. People often use heart to express affection, care, and deep connection with others
+    How to run your code: Step 1: Install Python
+1. Go to python.org.
+2. Download and install Python. Make sure to check the box that says "Add Python to PATH" during installation.
+Step 2: Save Your Code
+1. Open Notepad or any text editor.
+2. Copy your code and paste it into the text editor.
+3. Save the file with a name like draw_pattern.py.
+Step 3: Run the Code
+1. Open Command Prompt (on Windows) or Terminal (on Mac).
+2. Go to the folder where your draw_pattern.py file is saved. For example, type this in the terminal:
+cd path\to\your\file
+3. Type the following and press Enter:
+python draw_pattern.py
+(On Mac/Linux, you might need to type python3 instead of python).
+Step 4: See the Result
+A new window will pop up showing the drawing being created with colors.
+Done! The turtle graphics window will appear, and the pattern will be drawn.
