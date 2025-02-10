@@ -22,3 +22,8 @@ def heart():
 heart()
 red.ht()
 turtle.done()
+#This code is a heart
+#The color of the heart is red
+#It follows an arrow
+#The range of this is 200
+#The heart's width and height is 400
